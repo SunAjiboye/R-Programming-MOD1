@@ -20,3 +20,6 @@ I’m [Your Name](https://github.com/your-github-username), an aspiring develope
 ## 🎯 Next Steps:
 - Add more content to this repository.
 - Learn how to push changes using Git.
+
+
+![alt text](https://nickelodeonuniverse.com/wp-content/uploads/Spongebob.png)
