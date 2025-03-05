@@ -23,3 +23,5 @@ I’m [Your Name](https://github.com/your-github-username), an aspiring develope
 
 
 ![alt text](https://nickelodeonuniverse.com/wp-content/uploads/Spongebob.png)
+
+[LinkedIn](https://www.linkedin.com/in/eduwiese/)
